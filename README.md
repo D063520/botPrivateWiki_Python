@@ -4,7 +4,7 @@ What to do?
 - login with your username
 - go to "special pages" and "Passwords for bots".
 - give the bot all rights
-- Insert your newly generated username and password into 
+- Insert your newly generated username (myUser) and password (myPassword) into 
     - user-password.py and
     - in the Example.py at config2.usernames['my']['my']
 - Run 'python example.py'. Enjoy editing your Wikibase via python!
