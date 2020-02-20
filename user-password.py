@@ -1,0 +1,1 @@
+(u'MyUser', BotPassword(u'myBot', u'myBotPassword'))
